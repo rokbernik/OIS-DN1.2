@@ -1,4 +1,2 @@
-OIS-DN1.2
-=========
-
-1.Domaca naloga pri predmetu OIS
+## Naloga1.2 pri predmetu OIS
+Sprememba zahtevane datoteke.
